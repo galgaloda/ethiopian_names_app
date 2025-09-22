@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714725259912",
+    "project_id": "ethiopian-names-app",
+    "storage_bucket": "ethiopian-names-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714725259912:android:b153639557af00ecf77d3d",
+        "android_client_info": {
+          "package_name": "com.example.ethiopian_transliterator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnar0UrSwkp10WNtIHX2Xs-pwvpBygjos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
